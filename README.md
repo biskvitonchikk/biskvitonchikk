@@ -43,7 +43,7 @@
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
 </p>
 
-## Codewars
+## <img src="https://giffun.ru/wp-content/uploads/2022/08/7d1.gif" alt="catPc" width="30" height="30" /> Codewars
 
 ![Codewars Badge](https://www.codewars.com/users/biskvitonchik/badges/large)
 
