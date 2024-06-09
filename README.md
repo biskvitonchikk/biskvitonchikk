@@ -44,10 +44,9 @@
 ![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=biskvitonchik&show_icons=true&theme=radical)
 
 
-<p>
-  ![Animation](https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif)
-  ![Animation](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
-<p/>
+![Animation](https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif)
+![Animation](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
+
 
 
 Спасибо, что посетили мой профиль! Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной.
