@@ -43,7 +43,7 @@
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
 </p>
 
-## <img src="https://giffun.ru/wp-content/uploads/2022/08/7d1.gif" alt="catPc" width="30" height="30" /> Codewars
+## <img src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc5NTIyMTMsIm5iZiI6MTcxNzk1MTkxMywicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA5VDE2NTE1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU4NGY3OGM3MDAwMWE1YWJkY2I5OGFlNDM0MDc4NjkzYzMwOGIzOGVlNmRhYTYyMTE3N2MyMTY2MTUwZDk5MmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nlZaS6Xum77Yo1clVNYoIgpLRRNOIiieeQEIRGrPyI4" alt="catPc" width="30" height="30" /> Codewars
 
 ![Codewars Badge](https://www.codewars.com/users/biskvitonchik/badges/large)
 
