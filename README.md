@@ -1,6 +1,6 @@
 <h1 align="center">
   Привет! <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Hello" width="50" height="50" /> <br>
-  Я Дима! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35" height="35" />
+  Меня зовут Дима! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35" height="35" />
 </h1>
 
 
@@ -8,7 +8,11 @@
 
 ###
 
-<p align="left">lorem20пюбывапдлжфщжлпоуйцщкпщзвьадфлыоп пывалзплыва плывж лпывжа лпывлп ываплываплвыадпл ждывалпждвыал пвавы пвып  вапвылаждплываждплывж </p>
+<p align="left">Я Frontend-developer. 
+Занимаюсь web-разработкой полтора года. 
+Определил для себя три основных правила: правильная организаия кода, чистота кода, принципы KISS и DRY. 
+Приносит удовольствие узнавать что-то новое, поэтому не останавливаюсь на достигнутых знаниях. 
+</p>
 
 
 
