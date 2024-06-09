@@ -55,6 +55,6 @@
     
 
 
-<div aling="center"> 
-   Спасибо, что посетили мой профиль! <br> Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной. <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2l4dW1zazBqNGhqMWhrcDU3NHI3bHp6YWk5b2V1ZXVnaTBka2ZsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qzEeqMFlVeo78e1WJ2/giphy.gif" alt="wink" weight="100" height="100" />
+## <div aling="center"> 
+   Спасибо, что посетили мой профиль! <br> Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной. <br><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2l4dW1zazBqNGhqMWhrcDU3NHI3bHp6YWk5b2V1ZXVnaTBka2ZsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qzEeqMFlVeo78e1WJ2/giphy.gif" alt="wink" weight="100" height="100" />
 </div>
