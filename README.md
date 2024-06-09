@@ -1,8 +1,6 @@
-# Привет! 👋 Я Дима
+<h1 align="center">Привет👋 Я Дима!</h1>
 
-Я фронтенд разработчик.
-
-## 🛠️ Мой стек
+## 🛠️ Технологии
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
@@ -14,13 +12,16 @@
 
 </p>
 
-## 🛠️ Вспомогательные сервисы
+## 🛠️ Инструменты
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" alt="Yarn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+    <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+
 </p>
 
 ##
