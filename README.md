@@ -47,11 +47,6 @@
 
 ![Codewars Badge](https://www.codewars.com/users/biskvitonchik/badges/large)
 
-##
-
-![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=biskvitonchik&show_icons=true&theme=radical)
-
-
 <hr>  
 
 <h2 align="center">
