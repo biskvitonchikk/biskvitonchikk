@@ -1,5 +1,14 @@
 <h1 align="center">Привет!<img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc5NDgwMDQsIm5iZiI6MTcxNzk0NzcwNCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA5VDE1NDE0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiYjZmZjUwNTdkMDA3OGZmMzBkMzY0MjQ0OTRhNzFhN2U1Njc2NDRjMmFmZjA3NzBkYjMzMzJhYzg3NDU3OTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.zu_45Faiy0MQxSnB4gXfHOJpbfuiQ3lWjQCwqcY3LXM" alt="Greeting Animation" width="40" height="40"/></h1>
 
+
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+###
+
+<p align="left">lorem20пюбывапдлжфщжлпоуйцщкпщзвьадфлыоп пывалзплыва плывж лпывжа лпывлп ываплываплвыадпл ждывалпждвыал пвавы пвып  вапвылаждплываждплывж </p>
+
+
+
 <div align="center">
   <a href="https://t.me/biskv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
