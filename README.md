@@ -43,8 +43,7 @@
 
 ![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=biskvitonchik&show_icons=true&theme=radical)
 
-![Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Animation](ttps://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif)
 
-![Telegram Badge](https://img.shields.io/badge/Telegram-biskv-2CA5E0?style=flat&logo=telegram&logoColor=white)
 
 Спасибо, что посетили мой профиль! Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной.
