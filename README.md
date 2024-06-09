@@ -21,7 +21,7 @@
 
 ## 📈 GitHub Статистика
 
-![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш_логин&show_icons=true&theme=radical)
+![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=biskvitonchikk&show_icons=true&theme=radical)
 
 ## 🚀 Анимация
 
