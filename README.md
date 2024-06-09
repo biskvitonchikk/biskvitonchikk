@@ -22,9 +22,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" alt="Yarn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
 </p>
+
 ##
+
 ![Codewars Badge](https://www.codewars.com/users/biskvitonchik/badges/large)
+
 ##
+
 ![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=biskvitonchik&show_icons=true&theme=radical)
 
 ![Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
