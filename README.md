@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Animation 2" width="300" height="200"/>
 </div>
 
-<h1 align="center">Привет👋 Я Дима!</h1>
+<h1 align="center">Привет <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Greeting Animation" width="50" height="50"/> Я Дима!</h1>
 
 <div align="center">
   <a href="https://t.me/biskv" target="_blank">
