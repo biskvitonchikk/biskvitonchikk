@@ -1,6 +1,6 @@
 <h1 align="center">
   Привет! <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Hello" width="50" height="50"/><br>
-  Я Дима! <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="Handshake" width="70" height="40"/>
+  Я Дима! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="50" height="50"/>
 </h1>
 
 
