@@ -43,8 +43,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" alt="Yarn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
-  <img src="https://pinia.vuejs.org/logo.svg" height="40" alt="pinia logo" />
+  <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="vite logo" />
+  <img src="https://pinia.vuejs.org/logo.svg" width="40" height="40"" alt="pinia logo" />
+  <img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-dark.svg" width="40" height="40" alt="prettier logo" />
+   <img src="https://simpleicons.org/icons/openai.svg" width="40" height="40" alt="chatGPT logo" />
 </p>
 
 ## Codewars
